@@ -1,5 +1,6 @@
 # SteamDisk-For-Windows
 Launch your digital Steam Library using legit 3.5 floppy disks
+
 <img width="1773" height="887" alt="ChatGPT Image Jul 7, 2026, 02_14_01 PM" src="https://github.com/user-attachments/assets/a1e17062-f9b0-48a4-9203-287e003793f9" />
 
 SteamDisk is a python/ps1 sctipt that you let run in the background of your linux build via a .sh/vb script to run Steam, Lutris, Native or Wine software after the insertion of a floppy disk inside a floppy disk drive
